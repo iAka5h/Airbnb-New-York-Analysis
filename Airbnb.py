@@ -164,7 +164,7 @@ elif select == 'ABOUT':
     st.write("The Airbnb Analysis project delves into the dynamics of the short-term rental market, focusing on key aspects such as property types, pricing strategies, and customer reviews. By leveraging data from various sources, we aim to uncover insights that can assist hosts in optimizing their listings and enhancing guest experiences. This project employs advanced data visualization techniques to present findings in an accessible manner, making it a valuable resource for both current and prospective Airbnb hosts. Ultimately, our goal is to contribute to a deeper understanding of the Airbnb ecosystem and facilitate informed decision-making.")
     
     st.subheader(":red[PowerBI Dashboard:]")
-    st.image(Image.open(""))
+    st.image(Image.open("H:/Python/Airbnb Project/Airbnb Dataset/PowerBI Dashboard.png"))
 
     st.subheader(":red[Contact Details:]")
     st.write("**Author:** Akash P")
