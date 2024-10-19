@@ -5,7 +5,7 @@
 
 ## Overview
 
-Welcome to the **Airbnb New York Analysis** project! This project focuses on analyzing Airbnb listings and booking data to uncover insights about pricing trends, customer preferences, and property demand across various locations. Whether you're a data scientist, property owner, or simply curious about Airbnb trends, this project provides valuable data-driven insights.
+Welcome to the **Airbnb Analysis** project! This project focuses on analyzing Airbnb listings and booking data to uncover insights about pricing trends, customer preferences, and property demand across various locations. Whether you're a data scientist, property owner, or simply curious about Airbnb trends, this project provides valuable data-driven insights.
 
 ## Features
 
@@ -62,7 +62,7 @@ Before you begin, ensure you have met the following requirements:
 
 ## Data Sources
 
-- [Airbnb_Dataset](https://drive.google.com/file/d/1C7AilYDf2pA09Jy-5wYysvLwKC9_Fu9X/view) - A source of detailed data about Airbnb listings around the world.
+- [Inside Airbnb](http://insideairbnb.com/) - A source of detailed data about Airbnb listings around the world.
 
 ## Contributing
 
@@ -89,7 +89,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Acknowledgments
 
-- [Inside Airbnb](https://drive.google.com/file/d/1C7AilYDf2pA09Jy-5wYysvLwKC9_Fu9X/view) for providing the dataset.
+- [Inside Airbnb](http://insideairbnb.com/) for providing the dataset.
 - [Streamlit](https://streamlit.io/) for building interactive visualizations.
 - All contributors who help improve this project.
 
