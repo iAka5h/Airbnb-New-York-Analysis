@@ -1,11 +1,11 @@
-# Airbnb Data Analysis
+# Airbnb New York Analysis
 
 ![png](https://github.com/user-attachments/assets/f650dcc0-98f4-4b1a-8587-650f850b5a91)
 
 
 ## Overview
 
-Welcome to the **Airbnb Data Analysis** project! This project focuses on analyzing Airbnb listings and booking data to uncover insights about pricing trends, customer preferences, and property demand across various locations. Whether you're a data scientist, property owner, or simply curious about Airbnb trends, this project provides valuable data-driven insights.
+Welcome to the **Airbnb New York Analysis** project! This project focuses on analyzing Airbnb listings and booking data to uncover insights about pricing trends, customer preferences, and property demand across various locations. Whether you're a data scientist, property owner, or simply curious about Airbnb trends, this project provides valuable data-driven insights.
 
 ## Features
 
